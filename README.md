@@ -1,8 +1,15 @@
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <h3>Welcome to Ibrahim Helaly's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h3>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="300" />
-
-### Welcome to Ibrahim Helaly's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer%20%7C%20Node.js%20%2B%20TypeScript;Building%20scalable%20APIs;System%20Design%20%26%20Software%20Architecture;Always%20learning%20and%20sharing%20knowledge&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG" />
