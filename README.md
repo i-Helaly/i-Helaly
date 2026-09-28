@@ -1,13 +1,8 @@
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <h3>Welcome to Ibrahim Helaly's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h3>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="300" />
+
+<h3 align="center">Hey, I'm Ibrahim Helaly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h3>
+
+<br clear="right"/>
 
 <div align="center">
 
@@ -51,5 +46,4 @@
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-Helaly&theme=radical" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-Helaly&theme=radical" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-Helaly&theme=radical" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-Helaly&theme=radical&utcOffset=3" />
-</p>
+  <img height="150"
